@@ -65,16 +65,6 @@ public class sendFiles {
             } catch (ProtocolException e) {
                 e.printStackTrace();
             }
-
-   
-      
-            break;
         }
-
-
-
-
-
-      
     }
 }
